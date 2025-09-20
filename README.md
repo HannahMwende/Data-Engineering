@@ -6,8 +6,7 @@ You have been hired as a Python developer to implement and develop the authentic
 
 #### Data Structure
 Users must be stored in a dictionary with the following structure:
-
-`` users = {
+`users = {
     id: { Integer, 
     
         "email": "example@address.com",
@@ -18,7 +17,7 @@ Users must be stored in a dictionary with the following structure:
         
         "is_admin": False         # default is False
     }
-}``
+}`
 
 #### Functions to Implement
 
